@@ -1,8 +1,8 @@
 {
-  "name": "StackOverflowUI",
+  "name": "SO UI - Stack Overflow Special",
   "short_name": "SO UI",
-  "description": "Improved user interface of Stack Overflow.",
-  "version": "0.2.0",
+  "description": "Improved user interface of StackOverflow (SO).",
+  "version": "0.2.1",
   "icons": {
     "16": "img/16.png",
     "48": "img/48.png",
