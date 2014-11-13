@@ -6,3 +6,7 @@
 .container {
   padding-top: 34px;
 }
+
+#question .everyonelovesstackoverflow {
+  display: none;
+}
